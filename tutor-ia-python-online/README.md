@@ -1,21 +1,21 @@
 # Tutor IA de Python Online
 
-## Overview
-"Tutor IA de Python Online" is a web-based platform designed to provide online tutoring for Python programming. The project aims to create an interactive and user-friendly experience for learners of all levels.
+## Visão Geral
+"Tutor IA de Python Online" é um projeto criado na disciplina INE5646 da UFSC, projetado para fornecer tutoria online para programação em Python. O projeto visa criar uma experiência interativa e amigável para os alunos de Python.
 
-## Project Structure
-The project consists of the following files:
+## Estrutura do Projeto
+O projeto consiste nos seguintes arquivos:
 
-- **index.html**: The main HTML file that defines the structure of the webpage, including navigation, sidebar, and footer.
-- **css/styles.css**: The stylesheet that contains all the CSS styles for the webpage, enhancing the visual presentation.
-- **dom-structure.html**: A visual representation of the DOM structure of the index.html page, illustrating the hierarchy of HTML elements.
-- **README.md**: This documentation file that provides an overview and instructions for the project.
+- **index.html**: O arquivo HTML principal que define a estrutura da página, incluindo navegação, barra lateral e rodapé.
+- **css/styles.css**: A folha de estilos que contém todos os estilos CSS para a página, melhorando a apresentação visual.
+- **dom-structure.html**: Uma representação visual da estrutura DOM da página index.html, ilustrando a hierarquia dos elementos HTML.
+- **README.md**: Este arquivo de documentação que fornece uma visão geral e instruções para o projeto.
 
-## Setup Instructions
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser to view the main page.
-3. Use the `dom-structure.html` file to understand the structure of the HTML elements used in the project.
-4. Modify the `css/styles.css` file to customize the styles as needed.
+## Instruções de Configuração
+1. Clone o repositório para sua máquina local.
+2. Abra o arquivo `index.html` em um navegador da web para visualizar a página principal.
+3. Use o arquivo `dom-structure.html` para entender a estrutura dos elementos HTML usados no projeto.
+4. Modifique o arquivo `css/styles.css` para personalizar os estilos conforme necessário.
 
-## Contact
-For any inquiries or contributions, please contact the project maintainer at [your-email@example.com].
+## Contato
+Para qualquer dúvida ou contribuição, por favor, entre em contato com o mantenedor do projeto.
