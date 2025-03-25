@@ -1,32 +1,21 @@
 # Tutor IA de Python Online
 
-Este projeto é uma plataforma online de tutoria em Python, utilizando inteligência artificial para ajudar os usuários a aprender e aprimorar suas habilidades em programação.
+## Overview
+"Tutor IA de Python Online" is a web-based platform designed to provide online tutoring for Python programming. The project aims to create an interactive and user-friendly experience for learners of all levels.
 
-## Estrutura do Projeto
+## Project Structure
+The project consists of the following files:
 
-O projeto contém os seguintes arquivos:
+- **index.html**: The main HTML file that defines the structure of the webpage, including navigation, sidebar, and footer.
+- **css/styles.css**: The stylesheet that contains all the CSS styles for the webpage, enhancing the visual presentation.
+- **dom-structure.html**: A visual representation of the DOM structure of the index.html page, illustrating the hierarchy of HTML elements.
+- **README.md**: This documentation file that provides an overview and instructions for the project.
 
-- `index.html`: O documento HTML principal que estrutura a página web.
-- `styles/style.css`: O arquivo CSS que define os estilos visuais da página.
+## Setup Instructions
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser to view the main page.
+3. Use the `dom-structure.html` file to understand the structure of the HTML elements used in the project.
+4. Modify the `css/styles.css` file to customize the styles as needed.
 
-## Como Usar
-
-1. Clone o repositório:
-   ```
-   git clone https://github.com/seu_usuario/tutor-ia-python-online.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```
-   cd tutor-ia-python-online
-   ```
-
-3. Abra o arquivo `index.html` em um navegador web para visualizar a página.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+## Contact
+For any inquiries or contributions, please contact the project maintainer at [your-email@example.com].
